@@ -2,7 +2,7 @@
 	import '../app.css';
 </script>
 
-<div class="navbar bg-neutral text-neutral-content rounded-box">
+<div class="navbar bg-neutral text-neutral-content">
 	<div class="flex-none">
 		<button class="btn btn-square btn-ghost">
 			<svg
@@ -20,7 +20,7 @@
 		</button>
 	</div>
 	<div class="flex-1">
-		<button class="btn btn-ghost text-xl normal-case">daisyUI</button>
+		<button class="btn btn-ghost text-xl text-bold text-primary normal-case">Stamp</button>
 	</div>
 </div>
 <slot />
